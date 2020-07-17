@@ -98,7 +98,7 @@ limitations under the License.
 
 <a href="http://www.quora.com/Adam-DAngelo">SOURAB BISWAS</a>
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://www.youtube.com/watch?v=ek1j272iAmc.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 
 Licence
