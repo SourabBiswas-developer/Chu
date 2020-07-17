@@ -68,7 +68,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-[![Watch the video](https://github.com/SourabBiswas-developer/Chu/blob/master/app/src/main/ic_launcher-playstore.png)](https://youtu.be/-j0dlcfekqw)
+[![Watch the video](https://github.com/SourabBiswas-developer/Chu/blob/master/app/src/main/res/drawable/village.jpg)](https://youtu.be/-j0dlcfekqw)
 
 
 Copyright [2020] [SOURAB BISWAS]
