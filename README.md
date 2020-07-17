@@ -87,3 +87,5 @@ limitations under the License.
 
 
 ![Image of Yaktocat](https://github.com/SourabBiswas-developer/Chu/blob/master/app/src/main/ic_launcher-playstore.png)
+
+<img src="https://github.com/SourabBiswas-developer/Chu/blob/master/app/src/main/ic_launcher-playstore.png" width="2" height="2" title="Github Logo">
