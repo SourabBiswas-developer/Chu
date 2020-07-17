@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@color/colorPrimaryDark"
+    android:theme="@style/ThemeOverlay.AppCompat.Dialog"
+    android:gravity="bottom"
+    android:layout_width="match_parent"
+    android:padding="15dp"
+    android:layout_height="176dp"
+    >
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_profile_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/profile"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@android:color/white"
+        />
+
+    <TextView
+        android:id="@+id/user_profile_name"
+        android:textColor="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="user name"
+        android:layout_marginLeft="4dp"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+       />///nav  hesder
+
+
+</LinearLayout>
