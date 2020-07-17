@@ -86,4 +86,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/SourabBiswas-developer/Chu/blob/master/app/src/main/ic_launcher-playstore.png)
