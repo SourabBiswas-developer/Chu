@@ -96,4 +96,9 @@ limitations under the License.
   <img src="https://github.com/SourabBiswas-developer/Chu/blob/master/app/src/main/ic_launcher-playstore.png" width="256" title="Github Logo">
 </p>
 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
+<a href="http://www.quora.com/Adam-DAngelo">SOURAB BISWAS</a>
+
+
+
+Licence
+======
